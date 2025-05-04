@@ -1,0 +1,2 @@
+# -FPGA-Based-System-For-Fundamental-Frequency-Extraction-and-Real-Time-Data-Transmission-via-UART
+Developed an FPGA-based system that interfaces with an analog signal generator using an onboard ADC for real-time signal processing. Extracted the fundamental frequency from harmonic-rich signals, transmitted data via UART, and visualized results in MATLAB. Highlights: FPGA design, DSP, UART, and real-time MATLAB analysis.
